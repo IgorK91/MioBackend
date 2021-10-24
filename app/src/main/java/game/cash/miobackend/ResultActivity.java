@@ -13,7 +13,7 @@ import android.widget.SimpleAdapter;
 import java.util.ArrayList;
 
 import game.cash.miobackend.updateFB.UpdateActivity;
-
+//
 public class ResultActivity extends AppCompatActivity {
     Button add;
     Bundle arguments;
