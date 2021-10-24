@@ -7,4 +7,6 @@ public class Constant {
     public final static String TITLE = "Название";
     public final static String NUMBER = "Номер";
     public final static String COAST = "Цена";
+    public static String ORDERS = "Количество заказов";
+
 }

@@ -4,8 +4,8 @@ import java.util.HashMap;
 
 public class ContactMap extends HashMap<String, String> {
 
-    static final String FIRST = "первый";
-    static final String SECOND = "второй";
+    public static final String FIRST = "первый";
+    public static final String SECOND = "второй";
 
 
     // Конструктор с параметрами
